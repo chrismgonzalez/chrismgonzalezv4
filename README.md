@@ -1,4 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/aadbdd91-cd4f-40a4-8ce3-3cc15a6ae148/deploy-status)](https://app.netlify.com/sites/relaxed-wescoff-f13f57/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fb86193a-f332-4e0b-845a-5d8fb4bb2638/deploy-status)](https://app.netlify.com/sites/boring-jepsen-a83129/deploys)
+[![Mergify Status][mergify-status]][mergify]
+
+[mergify]: https://mergify.io
+[mergify-status]: https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/chrismgonzalez/chrismgonzalezv4&style=flat
 
 Personal website running on Gatsby, React, and Node.js.
 
