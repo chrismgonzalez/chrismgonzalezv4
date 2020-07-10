@@ -1,6 +1,9 @@
 pull_request_rules:
-  - name: automatic merge when Github branch protection passes
-    conditions:[]
+  - name: auto merge successful Dependabot upgrades
+    conditions:
+      - author=dependabot-preview[bot]
+      - status-success=deploy/netlify
     actions:
       merge:
-        method: merge
+        method: rebase
+        strict: true
