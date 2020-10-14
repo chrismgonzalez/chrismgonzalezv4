@@ -65,7 +65,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.20.0",
     "prettier": "^2.0.5",
-    "remark-cli": "^8.0.0",
+    "remark-cli": "^9.0.0",
     "remark-preset-lint-recommended": "^4.0.0",
     "stylefmt": "^6.0.3",
     "stylelint": "^13.3.3",
